@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Wedding Photoshoot",
+    "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/wedding.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Baby Photoshoot",
+    "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/baby.jpg"
+  }
+]
