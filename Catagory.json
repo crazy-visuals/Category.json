@@ -1,9 +1,7 @@
-[
-  {
-    "title": "Independence Day Offer",
-    "description": "20% OFF on all Photo Frames",
-    "image": "https://raw.githubusercontent.com/crazy-visuals/catagory.json/main/IMG-20260728-WA0044.jpg",
-    "link": "festival-offers.html",
-    "tag": "20% OFF"
-  }
-]
+{
+  "title":"Offer",
+  "description":"20% OFF",
+  "image":"https://raw.githubusercontent.com/crazy-visuals/catagory.json/main/.jpg",
+  "link":"#",
+  "tag":"20% OFF"
+}
