@@ -1,12 +1,9 @@
 [
   {
-    "id": 1,
-    "name": "Wedding Photoshoot",
-    "image": "https://raw.githubusercontent.com/IMG-20260728-WA0044.jpg"
-  },
-  {
-    "id": 2,
-    "name": "Baby Photoshoot",
-    "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/baby.jpg"
+    "title": "Independence Day Offer",
+    "description": "20% OFF on all Photo Frames",
+    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/pics/offers/offer1.jpg",
+    "link": "festival-offers.html",
+    "tag": "20% OFF"
   }
 ]
